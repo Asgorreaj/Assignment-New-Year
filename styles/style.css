@@ -44,10 +44,10 @@ img {
   margin-bottom: 18px;
 }
 
-.header-paragraph{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    text-emphasis-color: rgb(65, 62, 62);
+.header-paragraph {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-emphasis-color: rgb(65, 62, 62);
 }
 
 .header .btn-primary {
@@ -127,51 +127,52 @@ footer {
   color: #444343;
   margin-top: 16px;
 }
+
 .fa-solid.fa-check {
-    color: rgb(0, 255, 0);
+  color: rgb(0, 255, 0);
 }
 
 .about {
-    background-color: antiquewhite;
-    max-width: auto;
-    padding-top: 4%;
-    padding-bottom: 5%;
-    padding-left: 5%;
-    padding-right: 5%;
+  background-color: antiquewhite;
+  max-width: auto;
+  padding-top: 4%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
 
-    margin-top: 10%;
-    border-radius: 5px;
+  margin-top: 10%;
+  border-radius: 5px;
 }
 
 
 .section-title {
-    max-width: 100px;
-    margin: auto;
+  max-width: 100px;
+  margin: auto;
 
 }
 
 
 .section-description {
-    text-align: center;
-    color: #757575;
-    font-size: 18px;
-    margin-bottom: 30px;
+  text-align: center;
+  color: #757575;
+  font-size: 18px;
+  margin-bottom: 30px;
 }
 
 .about-info-container {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .about .info-title {
-    font-size: 20px;
-    color: #757575;
+  font-size: 20px;
+  color: #757575;
 }
 
 .info-description {
-    font-weight: 700;
-    font-size: 20px;
-    color: #474747;
+  font-weight: 700;
+  font-size: 20px;
+  color: #474747;
 }
 
 .our-plan {
@@ -218,37 +219,38 @@ footer {
   line-height: 28px;
   color: #737272;
 }
+
 .mindset {
-    margin-bottom: 8px;
-    padding: 80px 25px;
-    background-image: url("../images/gradient2.png"), url("../images/watch.png");
-    border-radius: 8px;
-    background-repeat: no-repeat;
-    background-position: center, center;
-    background-size: cover, contain;
-  }
-  
-  .mindset-content {
-    margin-left: 35px;
-  }
-  
-  .mindset-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 40px;
-    color: #ffffff;
-    margin-bottom: 5px;
-  }
-  
-  .mindset-content .btn-primary {
-    margin-top: 8px;
-    background-color: #ffffff; 
-    color: #e97407; 
-    border: none;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  
+  margin-bottom: 8px;
+  padding: 80px 25px;
+  background-image: url("../images/gradient2.png"), url("../images/watch.png");
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  background-position: center, center;
+  background-size: cover, contain;
+}
+
+.mindset-content {
+  margin-left: 35px;
+}
+
+.mindset-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.mindset-content .btn-primary {
+  margin-top: 8px;
+  background-color: #ffffff;
+  color: #e97407;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
 footer {
   background: #151414;
   padding: 100px 180px;
