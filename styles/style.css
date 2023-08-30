@@ -339,7 +339,7 @@ input::placeholder {
   font-size: 18px;
   color: #ee6408;
   margin-top: 20px;
-  padding: 20px 35px !important;
+  padding: 20px 35px;
   border: none;
   cursor: pointer;
 }
